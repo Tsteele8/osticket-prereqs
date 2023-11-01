@@ -42,5 +42,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/Tsteele8/osticket-prereqs/assets/149441408/94d258a1-d606-4539-9bb8-e9ecf756a96b)
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Test the installation thoroughly by creating tickets, checking email configurations, and ensuring everything works as expected.
+Always ensure you follow best practices for security, such as removing the installation folder, keeping your osTicket installation and server software up to date, and configuring proper backups.
 
